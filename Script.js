@@ -1,4 +1,4 @@
-
+// copy paste this into the web editor
 let userInput;
 let submitButton;
 let chatHistory = [];
