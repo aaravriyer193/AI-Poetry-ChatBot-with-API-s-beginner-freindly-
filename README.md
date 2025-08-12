@@ -60,9 +60,6 @@ Important: Never share your API key publicly or commit it to GitHub. Anyone with
 * JavaScript Fetch API – to connect with OpenAI
 * OpenAI GPT-4o-mini – generates the poems
 
-Alright — here’s a **detailed “How It Works” article** explaining the inner workings of your **Poetic Quill** project in a beginner-friendly way, so anyone reading your GitHub can understand the logic, tools, and flow.
-
----
 
 # How Poetic Quill Works
 
@@ -228,9 +225,4 @@ By exploring Poetic Quill, you will:
 * See how **AI personalities** can be crafted through prompt engineering.
 
 ---
-
-If you want, I can now **add this as a `HOW_IT_WORKS.md` file** to your repo so it’s neatly separated from the README but still accessible.
-That way your README stays short while still linking to this detailed explanation.
-
-Do you want me to add that file?
 
