@@ -1,5 +1,3 @@
-// Responsive fullscreen Poetic Quill with adaptive button size
-// Paste into a .js file or a p5 sketch (with p5.js loaded)
 
 let userInput;
 let submitButton;
