@@ -1,5 +1,6 @@
-I am calling this chatbot the Poetic Quill
-Poetic Quill is a beginner-friendly creative coding project that blends art, AI, and JavaScript to bring a poetic chatbot to life.
+
+
+This chatbot(the Poetic Quill) is a beginner-friendly creative coding project that blends art, AI, and JavaScript to bring a poetic chatbot to life.
 
 Using p5.js for visuals and the OpenAI API for language generation, this project creates a whimsical digital “quill” that writes short, heavy-hearted double-line poems in response to anything you type.
 
