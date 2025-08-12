@@ -43,9 +43,6 @@ Open the project folder in your text editor.
 
 In the file script.js, find this line:
 
-javascript
-Copy
-Edit
 const OPENAI_API_KEY = "YOUR_API_KEY_HERE";
 Replace "YOUR_API_KEY_HERE" with the API key you got from OpenAI.
 
